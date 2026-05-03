@@ -1,4 +1,4 @@
-# CL-GCL:ComprehensiveandLightweightGraphContrastiveLearning
+# CL-GCL:Comprehensive and Lightweight Graph Contrastive Learning
 ## CL-GCL architecture:
 ![CL-GCL Architecture](./architecture.png)
 
