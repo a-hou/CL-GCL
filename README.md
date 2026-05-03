@@ -1,6 +1,6 @@
 # CL-GCL:ComprehensiveandLightweightGraphContrastiveLearning
 ## CL-GCL architecture:
-
+![CL-GCL Architecture](./architecture.png)
 
 ## 🚀 How to Run
 
