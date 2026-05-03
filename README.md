@@ -9,5 +9,5 @@ Make sure you have the required Python environment and libraries installed. All 
 Then, run the main script using the following command:
 
 ```bash
-python main.py
+python train.py
 ```
